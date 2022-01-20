@@ -1,0 +1,65 @@
+{
+    "Hallway": {
+        "checkpoints": [
+            {
+                "steps": 8499963,
+                "file_path": "results/ppo_vis_simple/Hallway/Hallway-8499963.onnx",
+                "reward": 0.9486666619777679,
+                "creation_time": 1642594240.3829637,
+                "auxillary_file_paths": [
+                    "results/ppo_vis_simple/Hallway/Hallway-8499963.pt"
+                ]
+            },
+            {
+                "steps": 8999977,
+                "file_path": "results/ppo_vis_simple/Hallway/Hallway-8999977.onnx",
+                "reward": 0.9380000233650208,
+                "creation_time": 1642594980.0413036,
+                "auxillary_file_paths": [
+                    "results/ppo_vis_simple/Hallway/Hallway-8999977.pt"
+                ]
+            },
+            {
+                "steps": 9499969,
+                "file_path": "results/ppo_vis_simple/Hallway/Hallway-9499969.onnx",
+                "reward": 0.9381333470344544,
+                "creation_time": 1642595721.3068914,
+                "auxillary_file_paths": [
+                    "results/ppo_vis_simple/Hallway/Hallway-9499969.pt"
+                ]
+            },
+            {
+                "steps": 9999984,
+                "file_path": "results/ppo_vis_simple/Hallway/Hallway-9999984.onnx",
+                "reward": 0.9400000125169754,
+                "creation_time": 1642596464.0102496,
+                "auxillary_file_paths": [
+                    "results/ppo_vis_simple/Hallway/Hallway-9999984.pt"
+                ]
+            },
+            {
+                "steps": 10000021,
+                "file_path": "results/ppo_vis_simple/Hallway/Hallway-10000021.onnx",
+                "reward": 0.9376000165939331,
+                "creation_time": 1642596464.0898516,
+                "auxillary_file_paths": [
+                    "results/ppo_vis_simple/Hallway/Hallway-10000021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000021,
+            "file_path": "results/ppo_vis_simple/Hallway.onnx",
+            "reward": 0.9376000165939331,
+            "creation_time": 1642596464.0898516,
+            "auxillary_file_paths": [
+                "results/ppo_vis_simple/Hallway/Hallway-10000021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.1"
+    }
+}

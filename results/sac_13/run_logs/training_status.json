@@ -1,0 +1,47 @@
+{
+    "Hallway": {
+        "checkpoints": [
+            {
+                "steps": 499980,
+                "file_path": "results/sac_13/Hallway/Hallway-499980.onnx",
+                "reward": null,
+                "creation_time": 1642699498.215255,
+                "auxillary_file_paths": [
+                    "results/sac_13/Hallway/Hallway-499980.pt"
+                ]
+            },
+            {
+                "steps": 999987,
+                "file_path": "results/sac_13/Hallway/Hallway-999987.onnx",
+                "reward": null,
+                "creation_time": 1642701468.5450585,
+                "auxillary_file_paths": [
+                    "results/sac_13/Hallway/Hallway-999987.pt"
+                ]
+            },
+            {
+                "steps": 1126865,
+                "file_path": "results/sac_13/Hallway/Hallway-1126865.onnx",
+                "reward": null,
+                "creation_time": 1642701963.5053284,
+                "auxillary_file_paths": [
+                    "results/sac_13/Hallway/Hallway-1126865.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1126865,
+            "file_path": "results/sac_13/Hallway.onnx",
+            "reward": null,
+            "creation_time": 1642701963.5053284,
+            "auxillary_file_paths": [
+                "results/sac_13/Hallway/Hallway-1126865.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.1"
+    }
+}

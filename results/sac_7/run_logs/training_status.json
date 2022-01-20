@@ -1,0 +1,65 @@
+{
+    "Hallway": {
+        "checkpoints": [
+            {
+                "steps": 2499988,
+                "file_path": "results/sac_7/Hallway/Hallway-2499988.onnx",
+                "reward": null,
+                "creation_time": 1642369681.013434,
+                "auxillary_file_paths": [
+                    "results/sac_7/Hallway/Hallway-2499988.pt"
+                ]
+            },
+            {
+                "steps": 2999980,
+                "file_path": "results/sac_7/Hallway/Hallway-2999980.onnx",
+                "reward": null,
+                "creation_time": 1642371463.6940043,
+                "auxillary_file_paths": [
+                    "results/sac_7/Hallway/Hallway-2999980.pt"
+                ]
+            },
+            {
+                "steps": 3499956,
+                "file_path": "results/sac_7/Hallway/Hallway-3499956.onnx",
+                "reward": null,
+                "creation_time": 1642373258.4508066,
+                "auxillary_file_paths": [
+                    "results/sac_7/Hallway/Hallway-3499956.pt"
+                ]
+            },
+            {
+                "steps": 3999974,
+                "file_path": "results/sac_7/Hallway/Hallway-3999974.onnx",
+                "reward": null,
+                "creation_time": 1642375055.6225507,
+                "auxillary_file_paths": [
+                    "results/sac_7/Hallway/Hallway-3999974.pt"
+                ]
+            },
+            {
+                "steps": 4000016,
+                "file_path": "results/sac_7/Hallway/Hallway-4000016.onnx",
+                "reward": 0.9179999828338623,
+                "creation_time": 1642375055.726132,
+                "auxillary_file_paths": [
+                    "results/sac_7/Hallway/Hallway-4000016.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000016,
+            "file_path": "results/sac_7/Hallway.onnx",
+            "reward": 0.9179999828338623,
+            "creation_time": 1642375055.726132,
+            "auxillary_file_paths": [
+                "results/sac_7/Hallway/Hallway-4000016.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.1"
+    }
+}
